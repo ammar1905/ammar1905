@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ammar1905" alt="ammar1905" /></a> </p>
 
+- 🌱 I’m currently learning **C++**
+
 - ⚡ Fun fact **I'm not funny**
 
 <h3 align="left">Connect with me:</h3>
