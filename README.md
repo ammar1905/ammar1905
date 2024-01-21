@@ -30,5 +30,5 @@ In this modern age where technology is rapidly advancing, people must keep up to
 I've always seen videos of how to build a PC. Now that I've actually done it, its not too difficult in my opinion. This makes me think that anyone that has the right components and receiving instructions can build their own PC. PCs are also very easy to disassemble, making it easy to replace parts.
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="left">Languages and Tools:</h2>
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </p>
