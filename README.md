@@ -10,7 +10,7 @@ Hello! I'm Ammar Idham. I'm from Bandar Baru Bangi, Selangor and currently study
 - 🌱 I’m currently learning **C++**
 - ⚡ Fun fact **I'm not funny**
 
-<h2 align="left">Reflections:</h2>
+<h2 align="left">🔎 Reflections:</h2>
 <h3 align="left">Assignment 1: Visit to NALI 2023</h3>
 It was an experience in and of itself. I got to see many wonderful ideas that people came up with. I especially was delighted to got try a virtual reality headset that was used for improving education in architecture. I hope that these innovations helps to create an immersive and effective learning environment.
 
