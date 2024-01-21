@@ -11,7 +11,9 @@ Hello! I'm Ammar Idham. I'm from Bandar Baru Bangi, Selangor and currently study
 
 <h2 align="left">📚 Education:</h2>
 - SMK Jalan Empat (2017-2022)
+
 - Foundation in Physical Science, (CGPA: 3.67) Universiti Teknologi Malaysia (August 2022-July 2023)
+  
 - Bachelor of Computer Science (Graphics and Multimedia Software) with Honours Universiti Teknologi Malaysia (October 2023-July 2027) (First year student)
 
 <h2 align="left">💬 Language Proficiency:</h2>
@@ -23,9 +25,9 @@ Hello! I'm Ammar Idham. I'm from Bandar Baru Bangi, Selangor and currently study
 - Attended the International Conference of Young Scientists three times and received a silver medal in 2021 and a gold medal in 2019 and 2020.
 
 - Awarded 3 gold medals and 1 silver medal for participating in the Nuang Challenge 2.0 national level camping activity at Hutan Lipur, Gunung Nuang, Selangor in 2018.
-- 
+  
 - Participated in the Step Technology Camp (STC) conducted by the National University of Singapore and the Temasek Foundation in 2018 as a member of the Malaysian team.
-- 
+  
 - Was the Chairman for my secondary school’s Japanese Language club in 2018 and the Vice Chairman in 2021 and 2022.
 
 
