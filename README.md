@@ -10,6 +10,7 @@ Hello! I'm Ammar Idham. I'm from Bandar Baru Bangi, Selangor and currently study
 - ⚡ Fun fact **I'm not funny**
 
 <h2 align="left">📚 Education:</h2>
+
 - SMK Jalan Empat (2017-2022)
 
 - Foundation in Physical Science, (CGPA: 3.67) Universiti Teknologi Malaysia (August 2022-July 2023)
@@ -17,9 +18,11 @@ Hello! I'm Ammar Idham. I'm from Bandar Baru Bangi, Selangor and currently study
 - Bachelor of Computer Science (Graphics and Multimedia Software) with Honours Universiti Teknologi Malaysia (October 2023-July 2027) (First year student)
 
 <h2 align="left">💬 Language Proficiency:</h2>
+
 - Fluent in English and Malay, Intermediate in Japanese
 
 <h2 align="left">✨ Experience and Accomplishments:</h2>
+
 - Participated in a 5 day cultural exchange programme organised by my secondary school SMK Jalan Empat, Chiba Prefectural Kimitsu High School and the Japan Travel Bureau (JTB) in 2017. Lived with a Japanese foster family for two days and one night in Kimitsu City.
 
 - Attended the International Conference of Young Scientists three times and received a silver medal in 2021 and a gold medal in 2019 and 2020.
