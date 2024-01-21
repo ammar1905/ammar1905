@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ammar1905&label=Profile%20views&color=0e75b6&style=flat" alt="ammar1905" /> </p>
 
 <h2 align="left">A bit about me:</h2>
-Hello! I'm Ammar Idham. I'm from Bandar Baru Bangi, Selangor and currently studying in Universiti Teknologi Malaysia. My hobby is playing video games, and I took this course to have a career in developing video games. 
+Hello! I'm Ammar Idham. I'm from Bandar Baru Bangi, Selangor and currently studying in Universiti Teknologi Malaysia. My hobby is playing video games, and I took this course to learn how to develop my own video games!
 
 - 🌱 I’m currently learning **C++**
 - ⚡ Fun fact **I'm not funny**
