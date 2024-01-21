@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ammar Idham</h1>
-<h3 align="center">A CS student in Universiti Teknologi Malaysia.</h3>
+<h3 align="center">A student trying to get a Bachelor of Computer Science (Graphics and Multimedia Software) with Honours at Universiti Teknologi Malaysia.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ammar1905&label=Profile%20views&color=0e75b6&style=flat" alt="ammar1905" /> </p>
 
