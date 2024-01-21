@@ -19,9 +19,13 @@ Hello! I'm Ammar Idham. I'm from Bandar Baru Bangi, Selangor and currently study
 
 <h2 align="left">✨ Experience and Accomplishments:</h2>
 - Participated in a 5 day cultural exchange programme organised by my secondary school SMK Jalan Empat, Chiba Prefectural Kimitsu High School and the Japan Travel Bureau (JTB) in 2017. Lived with a Japanese foster family for two days and one night in Kimitsu City.
+
 - Attended the International Conference of Young Scientists three times and received a silver medal in 2021 and a gold medal in 2019 and 2020.
+
 - Awarded 3 gold medals and 1 silver medal for participating in the Nuang Challenge 2.0 national level camping activity at Hutan Lipur, Gunung Nuang, Selangor in 2018.
+- 
 - Participated in the Step Technology Camp (STC) conducted by the National University of Singapore and the Temasek Foundation in 2018 as a member of the Malaysian team.
+- 
 - Was the Chairman for my secondary school’s Japanese Language club in 2018 and the Vice Chairman in 2021 and 2022.
 
 
