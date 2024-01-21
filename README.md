@@ -26,6 +26,9 @@ As a student of UTM, I use a lot of services provided by UTM Digital. For me to 
 <h3 align="left">Assignment 4: Industry Talk about System Development</h3>
 In this modern age where technology is rapidly advancing, people must keep up to date and adapt with all the changes over time. Unlike other industries, new innovations and applications are developed all the time in the IT industry. Subsequently, as a computer science student, I must also follow and implement all these new innovations and applications instead of still holding on to old techniques. 
 
+<h3 align="left">Activity: Assembling a PC</h3>
+I've always seen videos of how to build a PC. Now that I've actually done it, its not too difficult in my opinion. This makes me think that anyone that has the right components and receiving instructions can build their own PC. PCs are also very easy to disassemble, making it easy to replace parts.
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </p>
