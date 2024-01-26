@@ -53,6 +53,8 @@ In this modern age where technology is rapidly advancing, people must keep up to
 <h3 align="left">Activity: Assembling a PC</h3>
 I've always seen videos of how to build a PC. Now that I've actually done it, its not too difficult in my opinion. This makes me think that anyone that has the right components and receiving instructions can build their own PC. PCs are also very easy to disassemble, making it easy to replace parts.
 
+<h3 align="left">Activity: Design Thinking</h3>
+I am studying Computer Science (Graphics and Multimedia Software) in hopes of becoming a video game developer. Video games have been my favourite hobby ever since I was little and I hope that this course will expand my skills and knowledge in developing programs so that I can realise my dream of developing my own video games. This design thinking project has helped me know and understand the steps as to how to create and realise a project. Because of this, I can definitely be more fit to work on projects in the future. I think that I should join workshops and get certificates to expand my skill set in this ever growing industry.
 
 <h2 align="left">Languages and Tools:</h2>
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </p>
